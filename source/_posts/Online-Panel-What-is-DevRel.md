@@ -3,7 +3,7 @@ title: 'Online Panel: What is DevRel?'
 date: 2017-03-05 16:51:54
 tags: podcast, panel, online
 category: podcast
-media: https://soundcloud.com/user-505516226/devrelradio-february-2017-panel
+media: https://soundcloud.com/user-505516226/devrelradio-january-2017-panel-discussion
 image: 
 length: 36940539
 type: audio/mpeg
