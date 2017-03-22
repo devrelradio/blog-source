@@ -5,7 +5,7 @@
 # Site
 title: DevRel Radio
 subtitle:
-description: a podcast for Developer Relations professionals
+description: A podcast for Developer Relations professionals
 author: Tim Berglund
 language: en
 timezone: America/Denver
@@ -72,3 +72,17 @@ deploy:
   repo: git@github.com:devrelradio/blog.git
   branch: gh-pages
     
+
+
+podcast:
+  type: rss2
+  path: podcast.xml
+  limit: 20
+  hub:
+  url: https://devrelrad.io
+  description: a podcast for Developer Relations professionals
+  language: en-us
+  copyright: "Copyright (c) 2017 Tim Berglund"
+  owner: DevRel Radio
+  email: devrelradio@gmail.com
+  category: Technology
